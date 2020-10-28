@@ -1,0 +1,25 @@
+Name: Tor Parawell
+Student ID#: 002354234
+Chapman email: parawell@chapman.edu
+Course Number and Section: CPSC 350
+Assignment: Assignment-3
+
+
+Brief Overview of Program:
+This program checks the syntax delimiters of any enclosure characters such as "([{}])".  If the
+syntax is incorrect it will return with the line number that the error occured, otherwise it
+will ask the user to play again.
+
+2) A	list	of	all	source	files	submitted	for	the	assignment
+FileIO.cpp, assignment-3.h, GenStack.h, Makefile, RunChecker.cpp, SyntaxChecker.cpp, main.cpp
+
+3)A	description	of	any	known	compile	or	runtime	errors,	code	limitations,	or	deviations
+from	the	assignment	specification (if	applicable)
+No applicable runtime errors
+
+4) A	list of	all	references	used	to	complete	the	assignment,	including	peers	(if	applicable)
+N/A
+
+5) Instructions	for	running	the	assignment.	(Typically	applicable	in	advanced	courses	using
+build	systems	or	third	party	libraries)
+To compile: make all
